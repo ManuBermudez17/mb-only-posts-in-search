@@ -1,2 +1,4 @@
-# Mostrar solo post en busquedas de Wordpress (mb-only-posts-in-search)
- Plugins para que el buscador solo realice busquedas de Post, y no aparezcan las paginas creadas en el wordpress.
+# Mostrar solo posts en búsquedas de Wordpress 
+ 
+(mb-only-posts-in-search) - Este plugins configura el buscador por defecto de wordpress para que solo realice busqueda en los Post publicados. 
+Por ejemplo, no aparecerán las paginas que tenemos creadas en Wordpress.
